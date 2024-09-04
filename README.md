@@ -4,4 +4,3 @@ HI , I am Abdul Rafay (24k-0593) . \
 * secret identity : Batman
 * Havent touched grass in a long time
 * have only two braincells ( I think in binary )
-* trapped in ohio(paxtan)
