@@ -16,7 +16,7 @@ int main(){
         inp=(inp-seperator)/10;
     }
     for(int i=0 ; i<count ; i++){
-        printf(" %d \n",digits[i] );
+       
     armcheck+=(digits[i]*digits[i]*digits[i]) ;
        }
        if(armcheck==inp){
