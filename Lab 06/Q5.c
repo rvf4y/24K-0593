@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main(){
-    int width=5 , length=6 ;
+    int width , length ;
+    printf("Enter the length and width \n");
+    scanf(" %d %d ", &length , &width);
     char c ;
     for(int i = 1 ; i<=length ; i++){
         for(int j =1 ; j<=width ; j++){
