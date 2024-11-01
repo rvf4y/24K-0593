@@ -1,3 +1,7 @@
+/*Write a program that calculates the length of a string using a pointer. Do not use the
+built-in strlen() or sizeof() function. After length calculation reverse the string using
+the same pointers
+*/
 #include <stdio.h>
 #include <string.h>
 int main() {
