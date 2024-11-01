@@ -1,3 +1,8 @@
+/*Create a program that takes an array of size 6 and shifts all its elements to the right
+by one position. The last element should move to the first position.
+Input: {1,2,3,4,5,6}
+Output: {6,1,2,3,4,5}
+*/
 #include <stdio.h>
 int main() {
    printf("Enter array elements\n");
