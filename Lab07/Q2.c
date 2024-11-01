@@ -1,3 +1,8 @@
+/*Write a program that takes a string as input from the user and counts the frequency
+of each vowel (A, E, I, O, U) in the string
+3. Input: Hello World
+Output: a=0, e=1, I=0, o=2, u= 0
+*/
 #include <stdio.h>
 int main() {
     char inp[11];
